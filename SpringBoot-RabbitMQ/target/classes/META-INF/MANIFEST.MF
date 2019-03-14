@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-RabbitMQ
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: anshu
+Implementation-Vendor-Id: com.SpringBoot.RabbitMq
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBoot-RabbitMQ
+Created-By: Maven Integration for Eclipse
+
